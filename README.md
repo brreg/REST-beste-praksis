@@ -8,4 +8,4 @@ Vi jobber i master branch, men når vi mener at vi har ett sett av anbefalinger 
 (I arbeid)
 
 ## Oversikt over alle anbefalinger
-[01 Eksempel anbefaling](01_Eksempel_anbefaling.md)
+1. [Lag spesifikasjon for API'et](01_Lag_spesifikasjon_for_APIet.md)
