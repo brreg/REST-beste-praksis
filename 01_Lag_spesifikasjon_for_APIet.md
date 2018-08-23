@@ -20,7 +20,7 @@ Man skal beskrive:
 
 ## Eksempler:
 * https://data.brreg.no/oppgaveregisteret/docs/api.html
-* https://raw.githubusercontent.com/Informasjonsforvaltning/example-api/master/app/openAPI/industrialcodes.yaml
+* https://raw.githubusercontent.com/Informasjonsforvaltning/example-api/master/app/openAPI/industrialcodes_3.0.yaml
 
 ## Hvordan teste
 Ideelt sett bør man genere automatiserte tester som tester API'et basert på spesifikasjonen.
