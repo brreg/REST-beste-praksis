@@ -23,6 +23,8 @@ Ref https://httpstatuses.com/
 
 Eksempel: Bruk standard media types i beskrivelsen av innhold
 https://www.iana.org/assignments/media-types/media-types.xhtml
+
+Eksempel: Bruk lenker til relaterte ressurser (Hypermedia)
 ## Eksempler
 ## Hvordan teste
 ## Gevinster
